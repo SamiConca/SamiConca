@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SamiConca
-- 👀 I’m interested in cybersecurity, novel writing, DEIA efforts, biological anthropology, and paleontology.
+- 👀 I’m interested in cybersecurity, novel writing, DEIA efforts, ballroom dance, cooking, biological anthropology, and paleontology.
 - 🌱 I’m currently learning software development in Java for my Bachelor's degree.
-- 💞️ I’m looking to collaborate on cybersecurity projects, particularly in relation to networking.
+- 💞️ I’m looking to collaborate on cybersecurity projects, particularly in relation to networking or museum database maintenance.
 - 📫 How to reach me: @TheByteDinosaur on Instagram, or TheByteDinosaur on Discord.
 - 😄 Pronouns: she/they/he
 - ⚡ Fun fact: I have been in a horse carriage accident.
